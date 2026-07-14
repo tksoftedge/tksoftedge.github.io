@@ -19,4 +19,4 @@ We respect user privacy. Our apps do not collect personal data without consent. 
 
 ---
 
-© 2026 Dreamsky Dev. All rights reserved.
+© 2026 TK SoftEdge. All rights reserved.
